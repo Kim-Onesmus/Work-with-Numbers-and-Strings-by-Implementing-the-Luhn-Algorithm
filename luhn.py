@@ -26,5 +26,4 @@ def main():
         print('VALID!')
     else:
         print('INVALID!')
-
 main()
